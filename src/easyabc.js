@@ -167,7 +167,7 @@ class EasyABC extends Component {
                         </div>
                     </div>
                 </div>
-                <div className="tag">Made by "Abbas aLi muGhal"</div>
+                <div className="tag">Made by " Abbas aLi muGhal " </div>
             </div>
         );
     }
