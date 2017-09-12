@@ -223,6 +223,10 @@ input:checked + .slider:before {
 .slider.round:before {
   border-radius: 50%;
 }
+.tag {
+  float: right;
+  padding-right: 10px;
+}
 
 /* Footer */
 footer {
